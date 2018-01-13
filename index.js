@@ -20,7 +20,7 @@ function theBeatlesPlay(musician, instrument){
 
 function johnLennonFacts(array){
   let facts = []
-  
+
   for (let i; i < array.length; i++){
     facts.push(`${array[i]}!!!`)
   }
