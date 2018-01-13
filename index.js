@@ -19,6 +19,5 @@ function theBeatlesPlay(musician, instrument){
   //The function should return the array of new strings.
 
 function johnLennonFacts(array){
-
-
+  
 }
