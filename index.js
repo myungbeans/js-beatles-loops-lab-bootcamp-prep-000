@@ -26,3 +26,11 @@ function johnLennonFacts(array){
   }
   return facts
 }
+
+function iLoveTheBeatles(number){
+  let array = []
+
+  do {
+    []
+  }
+}
