@@ -19,7 +19,9 @@ function theBeatlesPlay(musician, instrument){
   //The function should return the array of new strings.
 
 function johnLennonFacts(array){
+  let facts = []
+  
   for (let i; i < array.length; i++){
-    array.push(`${}`)
+    facts.push(`${array[i]} ${+}`)
   }
 }
