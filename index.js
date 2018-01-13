@@ -20,6 +20,6 @@ function theBeatlesPlay(musician, instrument){
 
 function johnLennonFacts(array){
   for (let i; i < array.length; i++){
-    
+    array.push(`${}`)
   }
 }
