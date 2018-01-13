@@ -18,8 +18,8 @@ function theBeatlesPlay(musician, instrument){
   //The loop should make the same sentence for every member of the musicians array.
   //The function should return the array of new strings.
 
-function johnLennonFacts(array){
-
-}
-
-}
+// function johnLennonFacts(array){
+//
+// }
+//
+// }
