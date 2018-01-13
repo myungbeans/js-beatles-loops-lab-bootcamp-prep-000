@@ -5,7 +5,7 @@ function theBeatlesPlay(musician, instrument){
     array.push(`${musician[i]} plays ${instrument[i]}`)
   }
 
-  return list
+  return array
 }
   //Create a function theBeatlesPlay, which accepts two parameters- an array of musicians and an array of instruments.
   //The body of the function should create an empty array stored in a variable.
